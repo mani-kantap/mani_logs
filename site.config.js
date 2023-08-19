@@ -49,7 +49,7 @@ const CONFIG = {
   utterances: {
     enable: false,
     config: {
-      repo: mani-kantap/mani_logs,
+      repo: "mani-kantap/mani_logs",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
