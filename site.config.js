@@ -3,7 +3,7 @@ const CONFIG = {
   profile: {
     name: "Mani",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Machine Learning Engineer | Data scientist | AI/ML SDE | MLOps",
+    role: "AI/ML SDE | MLOps | Generative AI",
     bio: "Mahchine Learning, Data Science",
     email: "manikanta.dev@pm.me",
     linkedin: "manikantap-dev",
